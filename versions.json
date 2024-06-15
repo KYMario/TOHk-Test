@@ -1,0 +1,13 @@
+[
+  {
+    "Version": "5.1.61.3",
+    "AllowPublicRoom": false,
+    "Unavailable": false,
+    "NotAvailableOnline" : false,
+    "Update": {
+      "Version": "5.1.62",
+      "Forced": false,
+      "ShowUpdateButton": false,
+    }
+  }
+]
