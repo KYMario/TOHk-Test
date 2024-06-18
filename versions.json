@@ -3,8 +3,8 @@
     "Version": "5.1.61.3",
     "AllowPublicRoom": false,
     "Unavailable": false,
-    "NotAvailableOnline" : true,
-    "Info":"てすてす～",
+    "NotAvailableOnline" : false,
+    "Info":"やっほ～",
     "Update": {
       "Version": "5.1.61.2",
       "Forced": false,
