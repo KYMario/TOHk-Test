@@ -4,6 +4,7 @@
     "AllowPublicRoom": false,
     "Unavailable": false,
     "NotAvailableOnline" : true,
+    "Info":"てすてす～",
     "Update": {
       "Version": "5.1.61.2",
       "Forced": false,
