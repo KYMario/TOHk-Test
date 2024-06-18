@@ -1,7 +1,7 @@
 [
   {
     "Version": "5.1.61.3",
-    "AllowPublicRoom": true,
+    "AllowPublicRoom": false,
     "Unavailable": false,
     "NotAvailableOnline" : false,
     "Info":"",
