@@ -7,7 +7,7 @@
     "Info":"",
     "Update": {
       "Version": "5.1.61.2",
-      "Forced": false,
+      "Forced": true,
       "ShowUpdateButton": true
     }
   }
