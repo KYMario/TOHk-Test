@@ -1,10 +1,10 @@
 [
   {
     "Version": "5.1.61.3",
-    "AllowPublicRoom": false,
+    "AllowPublicRoom": true,
     "Unavailable": false,
     "NotAvailableOnline" : false,
-    "Info":"やっほ～",
+    "Info":"",
     "Update": {
       "Version": "5.1.61.2",
       "Forced": false,
