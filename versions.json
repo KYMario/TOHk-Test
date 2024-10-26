@@ -2,7 +2,7 @@
   {
     "Version": "5.1.9.21",
     "Unavailable": false,
-    "AllowPublicRoom": true,
+    "AllowPublicRoom": false,
     "NotAvailableOnline" : false,
     "Info":"",
     "Update": {
