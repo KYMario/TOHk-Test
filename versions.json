@@ -1,14 +1,13 @@
-[
-  {
-    "Version": "5.1.9.21",
+{
+  "5.1.9.21": {
     "Unavailable": false,
     "AllowPublicRoom": false,
-    "NotAvailableOnline" : false,
-    "Info":"",
+    "NotAvailableOnline": false,
+    "Info": "",
     "Update": {
       "Version": "5.1.9.18",
       "Forced": false,
       "ShowUpdateButton": true
     }
   }
-]
+}
