@@ -1,7 +1,7 @@
 {
   "51.11.29.99": {
     "Unavailable": false,
-    "NotAvailableOnline": true,
+    "NotAvailableOnline": false,
     "Update": {
       "Version": "5.1.9.18",
       "Forced": false,
