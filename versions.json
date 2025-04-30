@@ -2,6 +2,7 @@
   "51.11.29.99": {
     "Unavailable": false,
     "NotAvailableOnline": true,
+    "AnnounceText": "テストだよ～！よろしくね～",
     "Update": {
       "Version": "5.1.9.18",
       "Forced": false,
