@@ -3,6 +3,7 @@
     "Unavailable": false,
     "NotAvailableOnline": true,
     "AnnounceText": "テストだよ～！よろしくね～",
+    "HighestSupportedVersion": "2025.2.31",
     "Update": {
       "Version": "5.1.9.18",
       "Forced": false,
