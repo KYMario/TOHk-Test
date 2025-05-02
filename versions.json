@@ -1,9 +1,9 @@
 {
   "51.11.29.99": {
     "Unavailable": false,
-    "NotAvailableOnline": true,
+    "NotAvailableOnline": false,
     "AnnounceText": "テストだよ～！よろしくね～",
-    "HighestSupportedVersion": "2025.2.31",
+    "HighestSupportedVersion": "2025.3.31",
     "Update": {
       "Version": "5.1.9.18",
       "Forced": false,
