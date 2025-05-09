@@ -8,7 +8,14 @@
       "Version": "5.1.9.18",
       "Forced": false,
       "ShowUpdateButton": true
-    }
+    },
+    "BugInfos": [
+      {
+        "Title": "けーわいが爆散してしまう",
+        "Category": 0,
+        "Description": "ゲームを開始するとけーわいだけが爆散してしまう\n対処法:\n けーわいを部屋に入れない"
+      }
+    ]
   },
   "5.1.9.21": {
     "Unavailable": false,
