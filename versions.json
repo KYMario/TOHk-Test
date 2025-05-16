@@ -5,9 +5,9 @@
     "AnnounceText": "テストだよ～！よろしくね～",
     "HighestSupportedVersion": "2025.3.31",
     "Update": {
-      "Version": "5.1.9.18",
+      "Version": "519.27",
       "Forced": false,
-      "ShowUpdateButton": true
+      "ShowUpdateButton": false
     },
     "BugInfos": [
       {
