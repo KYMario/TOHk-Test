@@ -24,7 +24,7 @@
   },
   "5.1.9.21": {
     "Unavailable": false,
-    "AllowPublicRoom": false,
+    "BlockPublicRoom": false,
     "NotAvailableOnline": false,
     "Update": {
       "Version": "5.1.9.18",
