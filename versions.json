@@ -2,7 +2,7 @@
   "51.13.30.271": {
     "Unavailable": false,
     "NotAvailableOnline": true,
-    "AnnounceText": "CLS テストバージョン [一時中断]",
+    "AnnounceText": "</size><size=6>\n\n\n\n\n</size>CLS テストバージョン [一時中断]\n<color=lightblue><size=1.5>手伝ってくれてありがとねっ! お疲れ様！</size><size=6>\n\n\n\n\n</size><size=1><color=yellow>⇧ここからリリース版に戻れます⇧</color></size>",
     "Update": {
       "Version": "51.13.30.27",
       "Forced": false,
