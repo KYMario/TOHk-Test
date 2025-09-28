@@ -1,8 +1,13 @@
 {
   "51.13.30.271": {
     "Unavailable": false,
-    "NotAvailableOnline": false,
-    "AnnounceText": "CLS テストバージョン"
+    "NotAvailableOnline": true,
+    "AnnounceText": "CLS テストバージョン [一時中断]",
+    "Update": {
+      "Version": "51.13.30.27",
+      "Forced": false,
+      "ShowUpdateButton": true
+    },
   },
   "51.13.30.22": {
     "Unavailable": false,
