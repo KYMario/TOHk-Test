@@ -1,4 +1,10 @@
 {
+  "51.14.32.44": {
+    "AnnounceText": "わーい"
+  },
+  "51.14.32": {
+    "AnnounceText": "わーい!!!"
+  },
   "51.14.31": {
     "DisableRoomJoin": true
   },
